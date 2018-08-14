@@ -1,8 +1,8 @@
 design.txt :
-Os dados serão armazenados em banco de dados e OK
-deverão ser inseridos através de uma página online,OK
-onde possibilite a integração das informações e OK
-comunicação entre os usuários.OK
+Os dados serÃ£o armazenados em banco de dados e OK
+deverÃ£o ser inseridos atravÃ©s de uma pÃ¡gina online,OK
+onde possibilite a integraÃ§Ã£o das informaÃ§Ãµes e OK
+comunicaÃ§Ã£o entre os usuÃ¡rios.OK
 
 requisitos.txt : 
 Objetivo: Atender a demanda de uma clinica veterinaria,OK
@@ -11,3 +11,5 @@ historico de pacientes, OK
 agendas OK
 e 
 cadastro dos cliente OK
+
+#Gabriel Prado Lolo / RA: 1800411
