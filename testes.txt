@@ -11,5 +11,3 @@ historico de pacientes, OK
 agendas OK
 e 
 cadastro dos cliente OK
-
-#Gabriel Prado Lolo / RA: 1800411
