@@ -1,2 +1,4 @@
 desenvolver os componentes especificados em requisitos.txt e design.txt
-A linguagem de banco de dados se dar· em sql, o input ser· realizado em p·gina html,css e js
+A linguagem de banco de dados se dar√° em sql, o input ser√° realizado em p√°gina html,css e js
+# Ewerton dos Santos Araujo
+#RA 1800448
