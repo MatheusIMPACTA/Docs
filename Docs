@@ -4,8 +4,11 @@ Codificação
 ANALISE
   Os dados serão armazenados em banco de dados e deverão ser inseridos através de uma página online, onde possibilite a integração das informações e comunicação entre os usuários.
 REQUISITOS
+ REQUISITOS.txt
   Analise
   Objetivo: Atender a demanda de uma clinica veterinaria, armazenando dados como prontuario, historico de pacientes, agendas e cadastro dos cliente
+#Nome: Ana Beatriz Lima Tonasse RA:1800403
+
 TESTES
   design.txt :
   Os dados serão armazenados em banco de dados e OK
