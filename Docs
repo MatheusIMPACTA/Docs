@@ -1,7 +1,7 @@
 Codificação
   desenvolver os componentes especificados em requisitos.txt e design.txt
   A linguagem de banco de dados se dará em sql, o input será realizado em página html,css e js
-  #Nome: Bruno Luziani Lopes RA: 1800547
+  #Nome: Hyan Siqueira Lopes da Silva RA: 1800727
 
 ANALISE
   Os dados serão armazenados em banco de dados e deverão ser inseridos através de uma página online, onde possibilite a integração das informações e comunicação entre os usuários.
@@ -16,7 +16,7 @@ DESIGN:
   deverão ser inseridos através de uma página online,OK
   onde possibilite a integração das informações e OK
   comunicação entre os usuários.OK
- #Nome: Leandro Leite França RA: 1701885
+ #Nome: João Victor Nunes dos Santos RA: 1801142
 
 TESTES
 requisitos.txt : 
@@ -29,3 +29,5 @@ requisitos.txt :
 #Gabriel Prado Lolo RA: 1800411 Função: Teste
 
 
+Operação: 
+Nome: Matheus Dutra Karo RA: 1801049
