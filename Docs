@@ -17,7 +17,6 @@ DESIGN:
 REQUISITOS
   Analise
   Objetivo: Atender a demanda de uma clinica veterinaria, armazenando dados como prontuario, historico de pacientes, agendas e cadastro dos cliente
-TESTES
   design.txt :
   Os dados serão armazenados em banco de dados e OK
   deverão ser inseridos através de uma página online,OK
