@@ -1,15 +1,18 @@
 Codificação
   desenvolver os componentes especificados em requisitos.txt e design.txt
   A linguagem de banco de dados se dará em sql, o input será realizado em página html,css e js
+  #Nome: Hyan Siqueira Lopes da Silva RA: 1800727
 
- *Nome: Bruno Luziani Lopes RA: 1800547
-
-  
 ANALISE
   Os dados serão armazenados em banco de dados e deverão ser inseridos através de uma página online, onde possibilite a integração das informações e comunicação entre os usuários.
+REQUISITOS
+ REQUISITOS.txt
+  Analise
+  Objetivo: Atender a demanda de uma clinica veterinaria, armazenando dados como prontuario, historico de pacientes, agendas e cadastro dos cliente
+#Nome: Ana Beatriz Lima Tonasse RA:1800403
+#Nome: Brenda Maria  Oliveira de Santana RA:1801079
 
-*Nome: Leandro Leite França
-*RA: 1701885
+DESIGN:
 
 REQUISITOS
   Analise
@@ -20,6 +23,9 @@ TESTES
   deverão ser inseridos através de uma página online,OK
   onde possibilite a integração das informações e OK
   comunicação entre os usuários.OK
+ #Nome: João Victor Nunes dos Santos RA: 1801142
+
+TESTES
 
 requisitos.txt : 
   Objetivo: Atender a demanda de uma clinica veterinaria,OK
@@ -28,3 +34,11 @@ requisitos.txt :
   agendas OK
   e 
   cadastro dos cliente OK
+#Gabriel Prado Lolo RA: 1800411 Função: Teste
+#Nome: Hellen Mendes Barbosa RA:1801219 
+
+
+
+Operação: 
+Nome: Matheus Dutra Karo RA: 1801049
+
